@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Microphone Recording</string>
+    <string name="btn_record_text">Record</string>
+    <string name="btn_play_text">Play</string>
+</resources>
